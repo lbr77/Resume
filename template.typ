@@ -2,7 +2,7 @@
 #let font = (
   main: "FiraMono Nerd Font",
   mono: "FiraMono Nerd Font Mono",
-  cjk: "LXGW WenKai Mono"
+  cjk: "LXGW WenKai"
 )
 
 // 图标

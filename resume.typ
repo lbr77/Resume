@@ -1,7 +1,5 @@
 #import "template.typ": *
 
-// 设置图标, 来源: https://fontawesome.com/icons/
-// 如果要修改图标颜色, 请手动修改 svg 文件中的 fill="rgb(38, 38, 125)" 属性
 #let faAward = icon("icons/fa-award.svg")
 #let faBuildingColumns = icon("icons/fa-building-columns.svg")
 #let faCode = icon("icons/fa-code.svg")
