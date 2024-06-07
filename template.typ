@@ -2,7 +2,7 @@
 #let font = (
   main: "IBM Plex Serif",
   mono: "IBM Plex Mono",
-  cjk: "Noto Serif CJK SC",
+  cjk: "LXGW WenKai"
 )
 
 // 图标
