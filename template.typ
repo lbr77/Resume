@@ -1,8 +1,8 @@
 // 字体
 #let font = (
-  main: "IBM Plex Serif",
-  mono: "IBM Plex Mono",
-  cjk: "LXGW WenKai"
+  main: "FiraMono Nerd Font",
+  mono: "FiraMono Nerd Font Mono",
+  cjk: "LXGW WenKai Mono"
 )
 
 // 图标
